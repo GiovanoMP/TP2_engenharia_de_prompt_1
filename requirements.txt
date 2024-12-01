@@ -1,0 +1,24 @@
+# API e servidor
+fastapi
+uvicorn
+
+# Modelos de ML
+transformers
+torch
+sentencepiece
+
+# Interface de teste
+streamlit
+requests
+
+# Utilitários
+python-dotenv
+pydantic
+
+# Formatação e validação
+black
+pylint
+
+# Testes
+pytest
+httpx
